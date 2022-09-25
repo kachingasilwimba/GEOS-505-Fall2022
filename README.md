@@ -12,6 +12,8 @@ Email: kachingasilwimba@u.boisestate.edu
 | R  | Relevant  |
 | T |  Time-bound|
 
-1. To learn how to work on group projects on github
-2. Improve my github skills 
-3. Improve my skills on shell scripting 
+### Goals for the Course 
+1. Learn how to collaborate with the GitHub community on group projects. 
+2. Discover all the features of GitHub and learn how to become a contributor.
+3. Learning how to manage my team's GitHub repository when more people join.
+4. Learning how to design a hydrological dashboard.
