@@ -2,7 +2,7 @@
 
 ## Kachinga Silwimba
 
-Emai: kachingasilwimba@u.boisestate.edu
+Email: kachingasilwimba@u.boisestate.edu
 
 | Letter  | Description |
 | ------------- | ------------- |
